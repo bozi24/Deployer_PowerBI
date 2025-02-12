@@ -25,7 +25,17 @@
       "filters": "[]",
       "height": 720.00,
       "name": "df14378a1ed200b52e09",
-      "visualContainers": [],
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"8c85f253ec388dd0d56d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":10.11607804396147,\"y\":0,\"z\":0,\"width\":905.3889849345517,\"height\":92.73071540298015,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Bienvenu dans le Rapport\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"18pt\"}}]}]}}]}}}",
+          "filters": "[]",
+          "height": 92.73,
+          "width": 905.39,
+          "x": 10.12,
+          "y": 0.00,
+          "z": 0.00
+        }
+      ],
       "width": 1280.00
     }
   ]
